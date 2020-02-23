@@ -13,7 +13,7 @@ pytest-mock==2.0.0
 coveralls==1.11.1
 coverage==5.0.3
 factory_boy==2.12.0
-freezegun==0.3.14
+freezegun==0.3.15
 
 # Linting:
 black==19.3b0
